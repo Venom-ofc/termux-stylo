@@ -17,7 +17,7 @@ pkg install ncurses-utils -y
 pkg install ruby -y 
 gem install lolcat 
 figlet -f big bem vindo | lolcat
-git clone https://github.com/venom588/simple-edit
+git clone https://github.com/Venom-ofc/simple-edit
 sed 's+THBD+'$user'+g' simple-edit/bash.bashrc > /data/data/com.termux/files/usr/etc/bash.bashrc
 sed 's+THBD+'$user'+g' simple-edit/wlc.py > /data/data/com.termux/files/usr/etc/wlc.py
 rm -rf simple-edit
