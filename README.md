@@ -10,7 +10,7 @@
 
 - pkg install git 
 
-- git clone https://github.com/venom588/termux-stylo
+- git clone https://github.com/Venom-ofc/termux-stylo
 
 - cd termux-stylo
 
